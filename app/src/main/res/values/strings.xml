@@ -421,9 +421,9 @@
     <string name="rule_book_content">正文规则(content)</string>
     <string name="rule_next_content">正文下一页URL规则(nextContentUrl)</string>
     <string name="rule_web_js">WebViewJs(webJs)</string>
-    <string name="rule_source_regex">资源正则(sourceRegex)</string>
-    <string name="rule_replace_regex">替换规则(replaceRegex)</string>
     <string name="rule_image_style">图片样式(imageStyle)</string>
+    <string name="rule_replace_regex">替换规则(replaceRegex)</string>
+    <string name="rule_source_regex">资源正则(sourceRegex)</string>
 
     <string name="source_icon">图标(sourceIcon)</string>
     <string name="r_articles">列表规则(ruleArticles)</string>
@@ -783,6 +783,8 @@
     <string name="empty_msg_import_book">Click the folder icon in the upper right corner and select the folder</string>
     <string name="scan_folder">Intelligent scanning</string>
     <string name="import_file_name">Imported-file name</string>
+    <string name="copy_book_url">Copy book URL</string>
+    <string name="copy_toc_url">Copy chapters URL</string>
     <string name="no_book">No books</string>
     <string name="keep_original_name">Keep the original name</string>
     <string name="click_regional_config">Screen touch control</string>
@@ -807,8 +809,6 @@
     <string name="pre_download_s">Download %s chapters in advance</string>
     <string name="is_enabled">Is enabled</string>
     <string name="background_image">Background image</string>
-    <string name="copy_book_url">Copy book URL</string>
-    <string name="copy_toc_url">Copy chapters URL</string>
     <string name="export_folder">Export folder</string>
     <string name="export_charset">Exported text coding</string>
     <string name="export_to_web_dav">Export to WebDav</string>
@@ -820,6 +820,11 @@
     <string name="system_tts">System tts</string>
     <string name="export_type">Exported file format</string>
     <string name="checkAuthor">Check by author</string>
+    <string name="search_src">Search source code</string>
+    <string name="boo_src">Book source code</string>
+    <string name="toc_src">Chapters source code</string>
+    <string name="content_src">Content source code</string>
+    <string name="list_src">List source code</string>
     <string name="url_already">This URL has subscribed</string>
     <string name="high_brush_title">High screen refresh rate</string>
     <string name="high_brush_summary">Use maximum screen refresh rate</string>
@@ -828,11 +833,6 @@
     <string name="show_unread">Show unread flag</string>
     <string name="use_default_cover">Always show default cover</string>
     <string name="use_default_cover_s">Always show the default cover, do not show the network cover</string>
-    <string name="search_src">Search source code</string>
-    <string name="boo_src">Book source code</string>
-    <string name="toc_src">Chapters source code</string>
-    <string name="content_src">Content source code</string>
-    <string name="list_src">List source code</string>
     <string name="title_font_size">Font size</string>
     <string name="title_margin_top">Margin top</string>
     <string name="title_margin_bottom">Marigin bottom</string>
@@ -846,6 +846,6 @@
     <string name="export_file_name">Export file name</string>
     <string name="reset">Reset</string>
     <string name="null_url">Null url</string>
-    <string name="dict">字典</string>
+    <string name="dict">Dict</string>
 
 </resources>
